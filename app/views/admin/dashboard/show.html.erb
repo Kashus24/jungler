@@ -1,2 +1,18 @@
-<h1>Admin::Dashboard#show</h1>
-<p>Find me in app/views/admin/dashboard/show.html.erb</p>
+<br>
+
+<h1>Admin Dashboard</h1>
+
+<table class="table table-bordered table-light">
+<thead>
+  <tr>
+    <th >Total Products</th>
+    <th >Total Categories</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <a href="/admin/products"> <%= @product_total %> </a> </td>
+    <td> <a href="/"> <%= @category_total %> </a> </td>
+  </tr>
+</tbody>
+</table>
