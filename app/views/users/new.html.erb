@@ -4,7 +4,7 @@
 <%= form_for :user, url: '/users' do |f| %>
 
   <br>
-  <ul>
+  <ul class="user-signup">
   <li>First Name: <%= f.text_field :first_name %></li>
   <br>
   <li>Last Name: <%= f.text_field :last_name %></li>
@@ -15,6 +15,6 @@
   <br>
   <li>Password Confirmation: <%= f.password_field :password_confirmation %></li>
   <br>
-  <li><%= f.submit "Submit" %> </li>
-
+  <div><%= f.submit "Submit" %> </div>
+  </ul>
 <% end %>
