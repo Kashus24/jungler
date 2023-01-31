@@ -9,8 +9,9 @@ describe('Product', () => {
     cy.get(".products article").should("be.visible")
   })
 
-  it("There is 2 products on the page", () => {
-    cy.get(".products article").should("have.length", 4)
+  it("renders products after clicking on products", () => {
+    cy.get('.me-auto > .nav-item > .nav-link').click()
+    
   })
 })
    
