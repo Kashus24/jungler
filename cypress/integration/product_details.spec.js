@@ -1,4 +1,4 @@
-describe('Home', () => {
+describe('Product', () => {
  
 
   it('displays the home page', () => {
