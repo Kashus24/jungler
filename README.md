@@ -5,6 +5,10 @@ A Green, mean, plant selling machine, equipped to handle new additions to the in
 # Screenshots
 ![Home Page](https://github.com/Kashus24/jungler/blob/master/docs/jungler-home.png?raw=true)
 
+![Product Page](https://github.com/Kashus24/jungler/blob/master/docs/jungler-products.png?raw=true)
+
+![Sign Up Page](https://github.com/Kashus24/jungler/blob/master/docs/jungler-signup.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
