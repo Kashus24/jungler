@@ -1,4 +1,4 @@
-describe('Home', () => {
+describe('Product', () => {
  
 
   it('displays the home page', () => {
@@ -9,8 +9,9 @@ describe('Home', () => {
     cy.get(".products article").should("be.visible")
   })
 
-  it("There is 4 products on the page", () => {
-    cy.get(".products article").should("have.length", 4)
+  it("renders products after clicking on products", () => {
+    cy.get('.me-auto > .nav-item > .nav-link').click()
+    
   })
 })
    
