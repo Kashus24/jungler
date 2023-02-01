@@ -1,6 +1,9 @@
 # Jungle
+A Green, mean, plant selling machine, equipped to handle new additions to the inventory(Admin additions only, so make sure to register). Fully equipped with HTTP authentication to make sure no dubious pranksters can alter the inventory. Application built with Rails 6.1. Now these screenshots below are in the holy "Dark Mode", which sadly does not come equipped. Add the chrome exstension 'Dark Reader' to get it looking just like this!
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+
+# Screenshots
+
 
 ## Setup
 
