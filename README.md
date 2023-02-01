@@ -3,7 +3,7 @@ A Green, mean, plant selling machine, equipped to handle new additions to the in
 
 
 # Screenshots
-
+!(https://github.com/Kashus24/jungler/blob/master/docs/jungler-home.png?raw=true) "Home Page"
 
 ## Setup
 
